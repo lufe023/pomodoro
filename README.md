@@ -6,22 +6,24 @@
 
 ## Características
 
-- **Pomodoro Timer**: Un temporizador de 25 minutos que cuenta hacia atrás, ideal para periodos de concentración y estudio.
-- **Short Break**: Un temporizador de 5 minutos para descansos cortos entre sesiones de trabajo.
-- **Long Break**: Un temporizador de 15 minutos para descansos más largos después de varias sesiones de trabajo.
-- Interfaz simple y fácil de usar para manejar los tiempos de trabajo y descanso.
+-   **Pomodoro Timer**: Un temporizador de 25 minutos que cuenta hacia atrás, ideal para periodos de concentración y estudio.
+-   **Short Break**: Un temporizador de 5 minutos para descansos cortos entre sesiones de trabajo.
+-   **Long Break**: Un temporizador de 15 minutos para descansos más largos después de varias sesiones de trabajo.
+-   Interfaz simple y fácil de usar para manejar los tiempos de trabajo y descanso.
 
 ## Capturas de pantalla
+
 _Agrega aquí capturas de pantalla si tienes_
 
 ## Instalación
 
-Sigue estos pasos para instalar y ejecutar la aplicación en tu dispositivo local.
+Sigue estos pasos para instalar y ejecutar la aplicación en tu dispositivo local:
 
 1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/usuario/pomodoro.git
-Navega al directorio del proyecto:
+    ```bash
+    git clone https://github.com/usuario/pomodoro.git
+    Navega al directorio del proyecto:
+    ```
 
 bash
 Copiar código
@@ -35,13 +37,17 @@ Ejecuta la app en un dispositivo emulado o en un dispositivo físico (asegúrate
 
 bash
 Copiar código
-npx react-native run-android  # Para Android
-npx react-native run-ios      # Para iOS
+npx react-native run-android # Para Android
+npx react-native run-ios # Para iOS
 Uso
 Abre la aplicación.
 Presiona el botón "Start" en el temporizador de Pomodoro para iniciar una sesión de 25 minutos.
 Al completar la sesión de trabajo, selecciona "Short Break" para un descanso corto de 5 minutos o "Long Break" para un descanso largo de 15 minutos.
 Repite el ciclo para gestionar tu tiempo de manera efectiva.
+
+[Descarga APK](https://expo.dev/artifacts/eas/g48wLEfthcbrTn8DZBNKXK.aab)
+Si prefieres probar la aplicación sin configurarla localmente, puedes descargar el archivo APK
+
 Tecnologías utilizadas
 React Native: Framework para desarrollar aplicaciones móviles nativas.
 JavaScript: Lenguaje de programación utilizado para el desarrollo de la app.
@@ -50,16 +56,25 @@ Contribuciones
 Si deseas contribuir a este proyecto, sigue estos pasos:
 
 Haz un fork del repositorio.
-Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
-Realiza tus cambios y haz commit (git commit -am 'Añadir nueva funcionalidad').
-Sube tus cambios (git push origin feature/nueva-funcionalidad).
+Crea una nueva rama:
+bash
+Copiar código
+git checkout -b feature/nueva-funcionalidad
+Realiza tus cambios y haz commit:
+bash
+Copiar código
+git commit -am 'Añadir nueva funcionalidad'
+Sube tus cambios:
+bash
+Copiar código
+git push origin feature/nueva-funcionalidad
 Crea un pull request.
 Licencia
 Este proyecto está licenciado bajo la MIT License.
 
 ¡Gracias por utilizar la Pomodoro App!
 
-r
+perl
 Copiar código
 
-Este `README.md` proporciona una descripción clara de la aplicación, sus características, i
+Este es el formato correcto para tu archivo `README.md`. Si tienes más preguntas o necesitas ayud
