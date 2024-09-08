@@ -21,3 +21,45 @@ Sigue estos pasos para instalar y ejecutar la aplicación en tu dispositivo loca
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/usuario/pomodoro.git
+Navega al directorio del proyecto:
+
+bash
+Copiar código
+cd pomodoro
+Instala las dependencias del proyecto:
+
+bash
+Copiar código
+npm install
+Ejecuta la app en un dispositivo emulado o en un dispositivo físico (asegúrate de tener configurado el entorno de desarrollo de React Native):
+
+bash
+Copiar código
+npx react-native run-android  # Para Android
+npx react-native run-ios      # Para iOS
+Uso
+Abre la aplicación.
+Presiona el botón "Start" en el temporizador de Pomodoro para iniciar una sesión de 25 minutos.
+Al completar la sesión de trabajo, selecciona "Short Break" para un descanso corto de 5 minutos o "Long Break" para un descanso largo de 15 minutos.
+Repite el ciclo para gestionar tu tiempo de manera efectiva.
+Tecnologías utilizadas
+React Native: Framework para desarrollar aplicaciones móviles nativas.
+JavaScript: Lenguaje de programación utilizado para el desarrollo de la app.
+Expo: (opcional) Utilizado para simplificar el desarrollo y la prueba en dispositivos.
+Contribuciones
+Si deseas contribuir a este proyecto, sigue estos pasos:
+
+Haz un fork del repositorio.
+Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+Realiza tus cambios y haz commit (git commit -am 'Añadir nueva funcionalidad').
+Sube tus cambios (git push origin feature/nueva-funcionalidad).
+Crea un pull request.
+Licencia
+Este proyecto está licenciado bajo la MIT License.
+
+¡Gracias por utilizar la Pomodoro App!
+
+r
+Copiar código
+
+Este `README.md` proporciona una descripción clara de la aplicación, sus características, i
