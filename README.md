@@ -45,7 +45,7 @@ Presiona el botón "Start" en el temporizador de Pomodoro para iniciar una sesi�
 Al completar la sesión de trabajo, selecciona "Short Break" para un descanso corto de 5 minutos o "Long Break" para un descanso largo de 15 minutos.
 Repite el ciclo para gestionar tu tiempo de manera efectiva.
 
-[Descarga APK](https://expo.dev/artifacts/eas/g48wLEfthcbrTn8DZBNKXK.aab)
+[Descarga APK](https://expo.dev/accounts/lufe023/projects/pomodoro/builds/06caf38b-b83a-4029-b4b6-24c59778abb2)
 Si prefieres probar la aplicación sin configurarla localmente, puedes descargar el archivo APK
 
 Tecnologías utilizadas
